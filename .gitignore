@@ -1,0 +1,48 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python cache (not required by the final dashboard, kept for future scripts)
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs / temporary files
+*.log
+*.tmp
+*.bak
+
+# Build / coverage artifacts
+build/
+dist/
+coverage/
+.pytest_cache/
+
+# Local Power BI / temporary exports
+*.pbit
+*.pbirs.user
+*.pbix.bak
+
+# Secrets / local configuration
+.env
+.env.*
+!.env.example
+
+# Generated documentation site artifacts
+site/
+
+# Temporary analysis output
+/tmp/

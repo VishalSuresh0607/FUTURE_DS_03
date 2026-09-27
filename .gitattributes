@@ -1,0 +1,7 @@
+# Treat Power BI and Excel assets as binary files.
+*.pbix binary
+*.pbit binary
+*.xlsx binary
+*.xls binary
+
+# Prevent line-ending normalization for binary assets.
