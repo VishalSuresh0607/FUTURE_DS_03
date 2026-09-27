@@ -1,0 +1,10 @@
+Suggested GitHub repository topics:
+
+marketing-analytics
+funnel-analysis
+conversion-analysis
+power-bi
+data-analytics
+business-intelligence
+marketing-performance
+future-interns
